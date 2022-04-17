@@ -1,2 +1,4 @@
 # tugas-laravel-4
-oke
+Nama : Yudha Wahyu Iskandar <br>
+Prodi : Sistem informasi <br>
+Nim : 20200121014
